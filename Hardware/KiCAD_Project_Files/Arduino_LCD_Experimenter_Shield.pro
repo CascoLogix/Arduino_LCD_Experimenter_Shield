@@ -1,6 +1,6 @@
-update=12/9/2014 6:44:52 PM
+update=12/9/2014 11:32:58 PM
 version=1
-last_client=kicad
+last_client=pcbnew
 [eeschema]
 version=1
 PageLayoutDescrFile=
@@ -65,15 +65,17 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
 LastNetListRead=
 UseCmpFile=1
-PadDrill=1.016
-PadDrillOvalY=1.016
-PadSizeH=1.524
-PadSizeV=1.524
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=0.7
+PadSizeV=4.2
 PcbTextSizeV=2.032
 PcbTextSizeH=1.524
 PcbTextThickness=0.3048
@@ -104,15 +106,14 @@ LibName14=C:/Engineering/KiCAD_Libraries/PCB/Switch
 LibName15=C:/Engineering/KiCAD_Libraries/PCB/Terminal_Block
 LibName16=C:/Engineering/KiCAD_Libraries/PCB/Test_Point
 LibName17=C:/Engineering/KiCAD_Libraries/PCB/Wire_to_Board
-LibName18=sockets
-LibName19=connect
-LibName20=discret
-LibName21=pin_array
-LibName22=divers
-LibName23=libcms
-LibName24=display
-LibName25=valves
-LibName26=led
-LibName27=dip_sockets
-[general]
-version=1
+LibName18=C:/Engineering/KiCAD_Libraries/PCB/Transducers
+LibName19=sockets
+LibName20=connect
+LibName21=discret
+LibName22=pin_array
+LibName23=divers
+LibName24=libcms
+LibName25=display
+LibName26=valves
+LibName27=led
+LibName28=dip_sockets
