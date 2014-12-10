@@ -1,0 +1,152 @@
+Reading netlist file "P:\Engineering_SECURE\Projects\Arduino_LCD_Experimenter_Shield\Hardware\KiCAD_Project_Files\Arduino_LCD_Experimenter_Shield.net".
+Using component footprint link file "P:\Engineering_SECURE\Projects\Arduino_LCD_Experimenter_Shield\Hardware\KiCAD_Project_Files\Arduino_LCD_Experimenter_Shield.cmp".
+Checking netlist component footprint "BT1:/5477FBC0:CR2032_MPD_BK912_SMT".
+Changing component "BT1:/5477FBC0" pin "1" net name from "N-000008" to "N-0000017".
+Changing component "BT1:/5477FBC0" pin "3" net name from "N-000008" to "N-0000017".
+Checking netlist component footprint "C1:/5476D52A:CP0805".
+Checking netlist component footprint "C2:/5476C827:C0603".
+Changing component "C2:/5476C827" pin "2" net name from "N-000009" to "N-000005".
+Checking netlist component footprint "C3:/5476C839:C0603".
+Changing component "C3:/5476C839" pin "2" net name from "N-000005" to "N-000007".
+Checking netlist component footprint "C4:/5476CA5C:CP0805".
+Checking netlist component footprint "C5:/5476D99F:CP0805".
+Checking netlist component footprint "C6:/5476CA67:CP0805".
+Checking netlist component footprint "C7:/5476CA40:CP0805".
+Changing component "C7:/5476CA40" pin "1" net name from "N-0000017" to "N-000009".
+Checking netlist component footprint "D4:/5483D819:SOT-23-3".
+Replacing component "D4:/5483D819" footprint "SOT23" with "SOT-23-3".
+Changing component "D4:/5483D819" pin "3" net name from "N-0000017" to "N-000009".
+Changing component "D4:/5483D819" pin "1" net name from "N-000008" to "N-0000017".
+Checking netlist component footprint "DS1:/5483F2A1:DS0805".
+Replacing component "DS1:/5483F2A1" footprint "D0805" with "DS0805".
+Changing component "DS1:/5483F2A1" pin "K" net name from "" to "N-000006".
+Checking netlist component footprint "DS2:/5483F2BD:DS0805".
+Replacing component "DS2:/5483F2BD" footprint "D0805" with "DS0805".
+Changing component "DS2:/5483F2BD" pin "K" net name from "" to "N-000008".
+Checking netlist component footprint "DS3:/5483F2C8:DS0805".
+Replacing component "DS3:/5483F2C8" footprint "D0805" with "DS0805".
+Changing component "DS3:/5483F2C8" pin "K" net name from "" to "N-0000021".
+Checking netlist component footprint "DS4:/5483F27E:HDG1602P-1".
+Checking netlist component footprint "J1:/546BF22F:FFC_14P_1.0MM_SMT".
+Checking netlist component footprint "LK1:/5476B213:SOLDER_LINK_NO".
+Checking netlist component footprint "LK2:/5476B22C:SOLDER_LINK_NO".
+Checking netlist component footprint "LK3:/5476B6C5:SOLDER_LINK_NO".
+Checking netlist component footprint "LK4:/5476B219:SOLDER_LINK_NC".
+Checking netlist component footprint "LK5:/5476B232:SOLDER_LINK_NC".
+Checking netlist component footprint "LK6:/5476B6CB:SOLDER_LINK_NC".
+Checking netlist component footprint "LK7:/5476DE62:SOLDER_LINK_NO".
+Checking netlist component footprint "LK8:/5476E052:SOLDER_LINK_NC".
+Checking netlist component footprint "LK9:/5476A699:SOLDER_LINK_NO".
+Changing component "LK9:/5476A699" pin "2" net name from "N-0000014" to "N-0000015".
+Checking netlist component footprint "LK10:/5476A5E3:SOLDER_LINK_NO".
+Changing component "LK10:/5476A5E3" pin "2" net name from "N-0000015" to "N-0000014".
+Checking netlist component footprint "LK11:/5476A5CF:SOLDER_LINK_NC".
+Changing component "LK11:/5476A5CF" pin "1" net name from "N-0000014" to "N-0000015".
+Checking netlist component footprint "LK12:/5476A682:SOLDER_LINK_NC".
+Changing component "LK12:/5476A682" pin "1" net name from "N-0000015" to "N-0000014".
+Checking netlist component footprint "LS1:/54847F72:PS1240P02BT_PTH".
+Changing footprint path "LS1:/5476BD12" to "/54847F72".
+Checking netlist component footprint "P1:/5483C334:HEADER_M_2.54MM_1R10P_ST_AU_PTH".
+Replacing component "P1:/5483C35C" footprint "HEADER_100MIL_1R8P_PTH" with "HEADER_M_2.54MM_1R10P_ST_AU_PTH".
+Changing footprint path "P1:/5483C35C" to "/5483C334".
+Changing component "P1:/5483C334" pin "6" net name from "GND" to "IO13/SCK".
+Changing component "P1:/5483C334" pin "4" net name from "" to "IO11/MOSI".
+Changing component "P1:/5483C334" pin "3" net name from "RESET" to "IO10/SS".
+Changing component "P1:/5483C334" pin "2" net name from "+5V" to "IO9".
+Changing component "P1:/5483C334" pin "1" net name from "" to "E".
+Changing component "P1:/5483C334" pin "8" net name from "" to "AREF".
+Changing component "P1:/5483C334" pin "5" net name from "+5V" to "IO12/MISO".
+Changing component "P1:/5483C334" pin "9" net name from "" to "AD4/SDA".
+Changing component "P1:/5483C334" pin "10" net name from "" to "AD5/SCL".
+Checking netlist component footprint "P2:/5483C320:HEADER_M_2.54MM_1R8P_ST_AU_PTH".
+Replacing component "P2:/5483C334" footprint "HEADER_100MIL_1R10P_PTH" with "HEADER_M_2.54MM_1R8P_ST_AU_PTH".
+Changing footprint path "P2:/5483C334" to "/5483C320".
+Changing component "P2:/5483C320" pin "6" net name from "IO13/SCK" to "D5".
+Changing component "P2:/5483C320" pin "4" net name from "IO11/MOSI" to "IO3/INT1".
+Changing component "P2:/5483C320" pin "3" net name from "" to "IO2/INT0".
+Changing component "P2:/5483C320" pin "2" net name from "IO9" to "IO1/TX".
+Changing component "P2:/5483C320" pin "1" net name from "E" to "IO0/RX".
+Changing component "P2:/5483C320" pin "7" net name from "GND" to "D6".
+Changing component "P2:/5483C320" pin "8" net name from "" to "D7".
+Changing component "P2:/5483C320" pin "5" net name from "IO12/MISO" to "D4".
+Checking netlist component footprint "P3:/5483C348:HEADER_M_2.54MM_1R6P_ST_AU_PTH".
+Replacing component "P3:/5483C348" footprint "HEADER_100MIL_1R6P_PTH" with "HEADER_M_2.54MM_1R6P_ST_AU_PTH".
+Changing component "P3:/5483C348" pin "3" net name from "" to "AD2".
+Changing component "P3:/5483C348" pin "2" net name from "" to "AD1".
+Changing component "P3:/5483C348" pin "1" net name from "" to "AD0".
+Checking netlist component footprint "P4:/5483C35C:HEADER_M_2.54MM_1R8P_ST_AU_PTH".
+Replacing component "P4:/5483C320" footprint "HEADER_100MIL_1R8P_PTH" with "HEADER_M_2.54MM_1R8P_ST_AU_PTH".
+Changing footprint path "P4:/5483C320" to "/5483C35C".
+Changing component "P4:/5483C35C" pin "6" net name from "D5" to "GND".
+Changing component "P4:/5483C35C" pin "4" net name from "IO3/INT1" to "+3.3V".
+Changing component "P4:/5483C35C" pin "3" net name from "IO2/INT0" to "RESET".
+Changing component "P4:/5483C35C" pin "2" net name from "" to "+5V".
+Changing component "P4:/5483C35C" pin "1" net name from "" to "N-0000020".
+Changing component "P4:/5483C35C" pin "7" net name from "D6" to "GND".
+Changing component "P4:/5483C35C" pin "8" net name from "D7" to "VIN".
+Changing component "P4:/5483C35C" pin "5" net name from "D4" to "+5V".
+Checking netlist component footprint "P5:/5483D027:HEADER_100MIL_2R6P_PTH".
+Checking netlist component footprint "R1:/54768ADD:R0603".
+Checking netlist component footprint "R2:/54768AEA:R0603".
+Checking netlist component footprint "R3:/54768AF7:R0603".
+Checking netlist component footprint "R4:/54769321:R0603".
+Checking netlist component footprint "R5:/54769316:R0603".
+Checking netlist component footprint "RV1:/54767B5E:POT_TRIM_PVZ3_SMT".
+Replacing component "RV1:/54767B5E" footprint "R0603" with "POT_TRIM_PVZ3_SMT".
+Changing component "RV1:/54767B5E" pin "3" net name from "" to "+5V".
+Checking netlist component footprint "RV2:/5476BE7A:POT_TRIM_PVZ3_SMT".
+Replacing component "RV2:/5476BE7A" footprint "R0603" with "POT_TRIM_PVZ3_SMT".
+Changing component "RV2:/5476BE7A" pin "3" net name from "" to "AD2".
+Checking netlist component footprint "SW1:/5483E16C:PTS810_SMT".
+Checking netlist component footprint "SW2:/5483E192:PTS810_SMT".
+Changing component "SW2:/5483E192" pin "1" net name from "N-0000019" to "N-0000031".
+Changing component "SW2:/5483E192" pin "2" net name from "N-0000019" to "N-0000031".
+Checking netlist component footprint "SW3:/5483E19D:PTS810_SMT".
+Changing component "SW3:/5483E19D" pin "1" net name from "N-0000031" to "N-0000019".
+Changing component "SW3:/5483E19D" pin "2" net name from "N-0000031" to "N-0000019".
+Checking netlist component footprint "SW4:/5483E1A8:PTS810_SMT".
+Changing component "SW4:/5483E1A8" pin "1" net name from "N-0000029" to "N-0000032".
+Changing component "SW4:/5483E1A8" pin "2" net name from "N-0000029" to "N-0000032".
+Checking netlist component footprint "SW5:/5483E1B3:PTS810_SMT".
+Changing component "SW5:/5483E1B3" pin "1" net name from "N-0000032" to "N-0000033".
+Changing component "SW5:/5483E1B3" pin "2" net name from "N-0000032" to "N-0000033".
+Checking netlist component footprint "SW6:/5483E1BE:PTS810_SMT".
+Changing component "SW6:/5483E1BE" pin "1" net name from "N-0000033" to "N-0000029".
+Changing component "SW6:/5483E1BE" pin "2" net name from "N-0000033" to "N-0000029".
+Checking netlist component footprint "U1:/5483A39E:SO-18".
+Changing component "U1:/5483A39E" pin "17" net name from "" to "N-0000021".
+Changing component "U1:/5483A39E" pin "7" net name from "" to "N-0000030".
+Changing component "U1:/5483A39E" pin "10" net name from "N-0000019" to "N-0000031".
+Changing component "U1:/5483A39E" pin "11" net name from "N-0000031" to "N-0000019".
+Changing component "U1:/5483A39E" pin "12" net name from "N-0000029" to "N-0000032".
+Changing component "U1:/5483A39E" pin "13" net name from "N-0000032" to "N-0000033".
+Changing component "U1:/5483A39E" pin "14" net name from "N-0000033" to "N-0000029".
+Changing component "U1:/5483A39E" pin "15" net name from "" to "N-000006".
+Changing component "U1:/5483A39E" pin "16" net name from "" to "N-000008".
+Checking netlist component footprint "U2:/54768842:SOT-23-5".
+Replacing component "U2:/54768842" footprint "SOT23-5" with "SOT-23-5".
+Checking netlist component footprint "U3:/54767798:SO-8".
+Changing component "U3:/54767798" pin "1" net name from "" to "N-0000058".
+Changing component "U3:/54767798" pin "2" net name from "N-0000014" to "N-0000015".
+Changing component "U3:/54767798" pin "3" net name from "N-0000015" to "N-0000014".
+Checking netlist component footprint "U4:/547677D4:TSSOP-8".
+Changing component "U4:/547677D4" pin "1" net name from "N-000005" to "N-000007".
+Changing component "U4:/547677D4" pin "2" net name from "N-000009" to "N-000005".
+Changing component "U4:/547677D4" pin "3" net name from "" to "N-0000038".
+Changing component "U4:/547677D4" pin "8" net name from "N-0000017" to "N-000009".
+Checking netlist component footprint "W1:/5483A739:WIRE_PAD_26AWG".
+Checking netlist component footprint "X1:/5484783C:AB26TRQ".
+Changing component "X1:/5484783C" pin "1" net name from "N-000009" to "N-000005".
+Changing component "X1:/5484783C" pin "2" net name from "N-000005" to "N-000007".
+Remove single pad net "+5V" on "RV1" pad <4>
+Remove single pad net "AD1" on "P3" pad <1>
+Remove single pad net "AD2" on "RV2" pad <2>
+Remove single pad net "D0" on "J1" pad <8>
+Remove single pad net "IO1/TX" on "P2" pad <1>
+Remove single pad net "IO10/SS" on "P1" pad <2>
+Remove single pad net "IO11/MOSI" on "P5" pad <3>
+Remove single pad net "N-0000021" on "U1" pad <1>
+Remove single pad net "N-0000031" on "SW2" pad <7>
+Remove single pad net "N-000004" on "LS1" pad <3>
+Remove single pad net "N-000006" on "U1" pad <1>
+** Error: Zone @ (6.3500 in,4.7000 in) layer <Front> has non-existent net name "5V" **

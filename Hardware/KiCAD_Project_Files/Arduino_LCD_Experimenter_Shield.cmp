@@ -1,0 +1,360 @@
+Cmp-Mod V01 Created by CvPcb (2013-09-13 BZR 4316)-product date = 12/7/2014 3:26:09 PM
+
+BeginCmp
+TimeStamp = /5477FBC0;
+Reference = BT1;
+ValeurCmp = BK-912 (2032);
+IdModule  = CR2032_MPD_BK912_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476D52A;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = CP0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476C827;
+Reference = C2;
+ValeurCmp = 8pF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476C839;
+Reference = C3;
+ValeurCmp = 8pF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476CA5C;
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = CP0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476D99F;
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = CP0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476CA67;
+Reference = C6;
+ValeurCmp = 10uF;
+IdModule  = CP0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476CA40;
+Reference = C7;
+ValeurCmp = 10uF;
+IdModule  = CP0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483D819;
+Reference = D4;
+ValeurCmp = BAV70L;
+IdModule  = SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483F2A1;
+Reference = DS1;
+ValeurCmp = YEL;
+IdModule  = DS0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483F2BD;
+Reference = DS2;
+ValeurCmp = YEL;
+IdModule  = DS0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483F2C8;
+Reference = DS3;
+ValeurCmp = YEL;
+IdModule  = DS0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483F27E;
+Reference = DS4;
+ValeurCmp = HDG1602P-1;
+IdModule  = HDG1602P-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /546BF22F;
+Reference = J1;
+ValeurCmp = SFW14R-1STE1LF;
+IdModule  = FFC_14P_1.0MM_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476B213;
+Reference = LK1;
+ValeurCmp = N.O.;
+IdModule  = SOLDER_LINK_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476B22C;
+Reference = LK2;
+ValeurCmp = N.O.;
+IdModule  = SOLDER_LINK_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476B6C5;
+Reference = LK3;
+ValeurCmp = N.O.;
+IdModule  = SOLDER_LINK_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476B219;
+Reference = LK4;
+ValeurCmp = N.C.;
+IdModule  = SOLDER_LINK_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476B232;
+Reference = LK5;
+ValeurCmp = N.C.;
+IdModule  = SOLDER_LINK_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476B6CB;
+Reference = LK6;
+ValeurCmp = N.C.;
+IdModule  = SOLDER_LINK_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476DE62;
+Reference = LK7;
+ValeurCmp = N.O.;
+IdModule  = SOLDER_LINK_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476E052;
+Reference = LK8;
+ValeurCmp = N.C.;
+IdModule  = SOLDER_LINK_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476A699;
+Reference = LK9;
+ValeurCmp = N.O.;
+IdModule  = SOLDER_LINK_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476A5E3;
+Reference = LK10;
+ValeurCmp = N.O.;
+IdModule  = SOLDER_LINK_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476A5CF;
+Reference = LK11;
+ValeurCmp = N.C.;
+IdModule  = SOLDER_LINK_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476A682;
+Reference = LK12;
+ValeurCmp = N.C.;
+IdModule  = SOLDER_LINK_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = /54847F72;
+Reference = LS1;
+ValeurCmp = PS1240P02BT;
+IdModule  = PS1240P02BT_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483C334;
+Reference = P1;
+ValeurCmp = 1X10 HEADER;
+IdModule  = HEADER_M_2.54MM_1R10P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483C320;
+Reference = P2;
+ValeurCmp = 1X8 HEADER;
+IdModule  = HEADER_M_2.54MM_1R8P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483C348;
+Reference = P3;
+ValeurCmp = 1X6 HEADER;
+IdModule  = HEADER_M_2.54MM_1R6P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483C35C;
+Reference = P4;
+ValeurCmp = 1X8 HEADER;
+IdModule  = HEADER_M_2.54MM_1R8P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483D027;
+Reference = P5;
+ValeurCmp = 2X3 HEADER;
+IdModule  = HEADER_100MIL_2R6P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /54768ADD;
+Reference = R1;
+ValeurCmp = 270;
+IdModule  = R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54768AEA;
+Reference = R2;
+ValeurCmp = 270;
+IdModule  = R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54768AF7;
+Reference = R3;
+ValeurCmp = 270;
+IdModule  = R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54769321;
+Reference = R4;
+ValeurCmp = 4.7k;
+IdModule  = R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54769316;
+Reference = R5;
+ValeurCmp = 4.7k;
+IdModule  = R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54767B5E;
+Reference = RV1;
+ValeurCmp = 10k;
+IdModule  = POT_TRIM_PVZ3_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476BE7A;
+Reference = RV2;
+ValeurCmp = 10k;
+IdModule  = POT_TRIM_PVZ3_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483E16C;
+Reference = SW1;
+ValeurCmp = PTS810;
+IdModule  = PTS810_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483E192;
+Reference = SW2;
+ValeurCmp = PTS810;
+IdModule  = PTS810_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483E19D;
+Reference = SW3;
+ValeurCmp = PTS810;
+IdModule  = PTS810_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483E1A8;
+Reference = SW4;
+ValeurCmp = PTS810;
+IdModule  = PTS810_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483E1B3;
+Reference = SW5;
+ValeurCmp = PTS810;
+IdModule  = PTS810_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483E1BE;
+Reference = SW6;
+ValeurCmp = PTS810;
+IdModule  = PTS810_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5484D0EC;
+Reference = U1;
+ValeurCmp = MCP23008E/SS;
+IdModule  = TSSOP-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /54768842;
+Reference = U2;
+ValeurCmp = MCP9800;
+IdModule  = SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54767798;
+Reference = U3;
+ValeurCmp = CAT24M01-SO8;
+IdModule  = SO-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /547677D4;
+Reference = U4;
+ValeurCmp = MCP7940M-I/ST;
+IdModule  = TSSOP-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5483A739;
+Reference = W1;
+ValeurCmp = WIRE_PAD_26AWG;
+IdModule  = WIRE_PAD_26AWG;
+EndCmp
+
+BeginCmp
+TimeStamp = /5484783C;
+Reference = X1;
+ValeurCmp = 32.768k;
+IdModule  = AB26TRQ;
+EndCmp
+
+EndListe
