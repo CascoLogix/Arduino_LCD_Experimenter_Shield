@@ -1,6 +1,6 @@
-update=12/7/2014 12:19:06 AM
+update=12/9/2014 6:44:52 PM
 version=1
-last_client=pcbnew
+last_client=kicad
 [eeschema]
 version=1
 PageLayoutDescrFile=
@@ -65,8 +65,6 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[general]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -116,3 +114,5 @@ LibName24=display
 LibName25=valves
 LibName26=led
 LibName27=dip_sockets
+[general]
+version=1
